@@ -31,6 +31,7 @@ To be honest, I prefer to write poems, by which I can release my presure, feelin
 
 ### useful links
 - [![](https://sou-yun.cn/images/publish.png)](https://sou-yun.cn/)
+- [詩詞吾愛](http://52shici.com/index.php)
 - [![](https://www.zdic.net/images/home_logo.png)](https://www.zdic.net/)
 - [![](https://ytenx.org/static/img/brand.gif)](https://ytenx.org/)
 - [Chinese Text Project](https://ctext.org/)
