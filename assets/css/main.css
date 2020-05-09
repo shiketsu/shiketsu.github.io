@@ -874,13 +874,6 @@ pre {
 }
 .caption-poem {
   text-align: center;
-  font-size: 0.875rem;
-  padding: 0.625rem;
-  font-style: italic;
-  margin: 0;
-  display: block;
-  border-bottom-right-radius: 0.3125rem;
-  border-bottom-left-radius: 0.3125rem;
 }
 
 .box-warning {
