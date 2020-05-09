@@ -6,14 +6,14 @@ subtitle: Hey gus, I will show you something beautiful!
 
 My name is Shiketsu(しけつ), and you can also call me Zi-Heng.
 
-- My favorate is The classical text 
-- as well as the anything `L'honneur de l'esprit humain`
+- My favorate is the classical text 
+- as well as the anything `pour L'honneur de l'esprit humain`.
 
 What else do you need?
 
 ### my history
 
-To be honest, I prefer to write poem, by which I can release my presure, feelings and tears.In short, I recommend you read the following one I just create recent days.
+To be honest, I prefer to write poems, by which I can release my presure, feelings and tears. In short, I recommend you read the following one I just create recent days.
 
 [庚子大疫](https://www.52shici.com/works.php?mem_id=118459&works_id=2172845) 
 
