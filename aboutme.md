@@ -29,3 +29,8 @@ To be honest, I prefer to write poems, by which I can release my presure, feelin
 闔戶豈知多暇憂，閉門應似作牢囚。<br>
 夜深幾處哭黔黎，生亦劬勞死亦愁。
 
+### useful links
+- [![](https://sou-yun.cn/images/publish.png)](https://sou-yun.cn/)
+- [![](https://www.zdic.net/images/home_logo.png)](https://www.zdic.net/)
+- [![](https://ytenx.org/static/img/brand.gif)](https://ytenx.org/)
+- [Chinese Text Project](https://ctext.org/)
