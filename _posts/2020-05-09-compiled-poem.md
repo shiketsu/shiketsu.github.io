@@ -185,3 +185,21 @@ subtitle: 歷年所作拙作合集
 隋堤三月柳，
 春色滿樓船。
 ```
+
+### 春日 四月九日
+
+```
+故里江南草未深，刘郎远送弄笛人。
+征篷婀娜随风转，鹧鸪三声断梦魂。
+```
+
+> Written when I was fighting with my master thesis, and I heard a voice of some kind of birds that I never heard again since I set out of my hometown when I was 12 years old.
+
+### 再读瘐信 四月十九
+
+> 初读瘐开府哀江南赋，其文之华丽，其情之真切，千载而下，临之而怆然！今日复读，知未尽然。其家也，先晋之世族，值永嘉南渡，播迁江南。幼时即负盛名，并其父甚宠于东宫，梁主遇之甚厚。羯人（白人的一支）侯景兵犯金陵，庾信弃走江陵，以致梁陈易代。其后又为残梁使魏，久居长安，永弃江关，为富贵公。其才也盛哉，其节也叹哉！岂堪言“瘐信平生最萧瑟”？
+
+```
+白日楼头吹画角，楼兰城外射雕弓。
+北海旄节终不脱，瘐信何须望江东？ 
+```
