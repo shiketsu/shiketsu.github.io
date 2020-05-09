@@ -13,7 +13,7 @@ What else do you need?
 
 ### my history
 
-To be honest, I prefer to write poems, by which I can release my presure, feelings and tears. In short, I recommend you read the following one I just create recent days.
+To be honest, I prefer to write poems, by which I can release my presure, feelings and tears. In a short, I recommend you to read the following one I just created recent days.
 
 [庚子大疫](https://www.52shici.com/works.php?mem_id=118459&works_id=2172845) 
 
