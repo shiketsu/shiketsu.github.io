@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Hey gus, I will show you something beautiful!
+subtitle: Hey guys, I will show you something beautiful!
 ---
 
 My name is Shiketsu(しけつ), and you can also call me Zi-Heng.

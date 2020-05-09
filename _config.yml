@@ -12,12 +12,12 @@ author: Shiketsu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
   Verses: "/2020-05-09-compiled-poem/"
   # Author's home: "https://deanattali.com"
+  About Me: "aboutme"
 
 # --- Logo --- #
 
@@ -65,7 +65,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  # linkedin: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -165,7 +165,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Shanghai"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
