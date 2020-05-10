@@ -15,7 +15,7 @@ navbar-links:
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
-  Verses: "/compiled-poems/"
+  Verses: "compiled-poems"
   # Author's home: "https://deanattali.com"
   About Me: "aboutme"
 
