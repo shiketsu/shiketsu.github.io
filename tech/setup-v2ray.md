@@ -33,14 +33,14 @@ After registering the domain, we need to connect it with our VPS, i.e., the CDN 
 
 ![](setup-v2ray-img-1.PNG)
 
-**Note:** you should gray the status button.
+**Note:** You should gray the status button. It may take a long time, and you need to continue the next step after days.
 
 #### Install V2ray service in your VPS
 
-We need to install v2ray service in our VPS, 
+We need to install v2ray service in our VPS by following command:
 
 ```bash
 bash <(curl –s –L https://git.io/v2ray.sh)
 ```
 
-and then install step by step (this script may be unavaible, please find another one in [Github](github.com) if it happens).
+and then install step by step (this script may be unavaible, please find another one in [Github](https://github.com) if it happens).
