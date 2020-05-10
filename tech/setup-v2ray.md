@@ -1,22 +1,23 @@
 ---
 layout: page
-title: How to setup v2ray?
+title: How to setup your v2ray?
+subtitle: a powerful technique against IP banning
 ---
 
 It is really an useful skill for people who live in China to setup a VPN. Considering the frequently ban of VPS on some protocols like Shadowsocks, I use the V2Ray. It has three disadvantages:
-- Security: v2ray is a much more secure protocol than others.
-- Convenient: there are many convenient scripts to configure v2ray
-- Effective: it cannot be banned when you use both v2ray and cdn. Otherwise, most other protocols can be banned and you need to find another one. It just wastes your money.
+- **Security**: v2ray is a much more secure protocol than others.
+- **Convenience**: there are many convenient scripts to configure v2ray
+- **Effectiveness**: it cannot be banned when you use both v2ray and cdn. Otherwise, most other protocols can be banned and you need to find another one. It just wastes your money.
 
 Welcome to the v2ray world!
 
 - Target: setup a VPN for your own use.
-- Cost: about $47 per year (330 RMB), and a bit of your rest time.
+- Cost: about $47 (330 RMB) per year and a bit of your rest time.
 - Level: ⭐⭐⭐⭐
 
 ### 1. Buy a VPS
 
-I choose the [![](https://bwh88.net/templates/organicbandwagon/images/logo.png)](https://bwh88.net/) for the reason in **price** and **convenient** (support for Alipay), however, there are some other kinds of VPS server providers with appealling prices, such as 
+I choose the [![](https://bwh88.net/templates/organicbandwagon/images/logo.png)](https://bwh88.net/) for the reason in **price** and **convenience** (support for Alipay), however, there are some other kinds of VPS server providers with appealling prices, such as 
 
 | :------ |:--- | :--- |
 | Vultr | [https://www.vultr.com/](https://www.vultr.com/)| I tried|
