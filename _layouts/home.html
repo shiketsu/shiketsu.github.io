@@ -6,7 +6,7 @@ layout: page
 
 {% assign posts = paginator.posts | default: site.posts %}
 
-<div class="posts-list">
+<!-- <div class="posts-list">
   {% for post in posts %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
@@ -71,5 +71,5 @@ layout: page
     <a class="page-link" href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
   </li>
   {% endif %}
-</ul>
+</ul> -->
 {% endif %}
