@@ -3,7 +3,12 @@ layout: page
 title: How to setup v2ray?
 ---
 
-It is really an useful skill for people who live in China to setup a VPN. Considering the frequently ban of VPS on some protocols like Shadowsocks, I use the V2Ray.
+It is really an useful skill for people who live in China to setup a VPN. Considering the frequently ban of VPS on some protocols like Shadowsocks, I use the V2Ray. It has three disadvantages:
+- Security: v2ray is a much more secure protocol than others.
+- Convenient: there are many convenient scripts to configure v2ray
+- Effective: it cannot be banned when you use both v2ray and cdn. Otherwise, most other protocols can be banned and you need to find another one. It just wastes your money.
+
+Welcome to the v2ray world!
 
 - Target: setup a VPN for your own use.
 - Cost: about $47 per year (330 RMB), and a bit of your rest time.
