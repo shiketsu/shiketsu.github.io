@@ -6,16 +6,16 @@ layout: page
 
 {% assign posts = paginator.posts | default: site.posts %}
 
-<!-- <div class="posts-list">
+<div class="posts-list">
   {% for post in posts %}
   <article class="post-preview">
     <a href="{{ post.url | relative_url }}">
       <h2 class="post-title">{{ post.title }}</h2>
 
       {% if post.subtitle %}
-        <h3 class="post-subtitle">
+      <h3 class="post-subtitle">
         {{ post.subtitle }}
-        </h3>
+      </h3>
       {% endif %}
     </a>
 
@@ -37,7 +37,7 @@ layout: page
         {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
-          <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
+        <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
       </div>
     </div>
@@ -50,12 +50,12 @@ layout: page
       <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
       {% endfor %}
       {% else %}
-        {{ post.tags | join: ", " }}
+      {{ post.tags | join: ", " }}
       {% endif %}
     </div>
     {% endif %}
 
-   </article>
+  </article>
   {% endfor %}
 </div>
 
@@ -71,5 +71,5 @@ layout: page
     <a class="page-link" href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
   </li>
   {% endif %}
-</ul> -->
+</ul>
 {% endif %}
