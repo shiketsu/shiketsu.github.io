@@ -63,4 +63,4 @@ and then install step by step (this script may be unavaible, please find another
 - Make sure that your DNS has been updated as the last step said.
 
 ### Reference
-- [How to setup your shadowsock server?](https://github.com/easonhuang123/blog/issues/1)
+- [How to setup your shadowsocks server?](https://github.com/easonhuang123/blog/issues/1). When you configure your domain in [freenom.com](https://freenom.com), you may get into some troubles because that the register script needs recaptcha (it may hide in the website appreance). Since you do NOT EVEN have access to Goolgle, it becomes impossible. Therefore, I strongly recommend you to setup you shadowsocks server in you VPS first, and then get a free domain to setup you v2ray.
