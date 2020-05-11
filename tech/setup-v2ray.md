@@ -67,6 +67,15 @@ and then install step by step (this script may be unavaible, please find another
 - When the script ask you to choose a port, type any number from 1-65535 you like, except 80 or 443. Actually, they are used specific reasons.
 - When the script ask you to input you damain, do it.
 - Make sure that your DNS has been updated as the last step said.
+- Please just press `enter` to comfirm all of the remaing configuration steps.
+
+### Finished your configuration
+
+Download v2rayN for windows platform [here](https://github.com/2dust/v2rayN/releases). Other versions is also available.
+
+Lauch v2rayN and choose `Scan QR code in the screen`, then the your v2ray server will be added automatically. 
+
+**Enjoy it!**
 
 ### Reference
 - [How to setup your shadowsocks server?](https://github.com/easonhuang123/blog/issues/1) When you configure your domain in [freenom.com](https://freenom.com), you may get into some troubles because that the register script needs recaptcha (it may hide in the website appreance, you can see network errors in Google Chrome developer panel by press `F12`). Since you do NOT EVEN have access to Google, the continuing becomes impossible. Therefore, I strongly recommend you to setup you shadowsocks server in your VPS first, and then get a free domain to setup you v2ray.
