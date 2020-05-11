@@ -47,7 +47,7 @@ ping <your domain>
 ```
 If the response IP is same to your VPS IP, congratuation!
 
-#### Install V2ray service in your VPS
+#### Install V2ray service on your VPS
 
 We need to install v2ray service in our VPS by following command:
 
@@ -58,6 +58,9 @@ and then install step by step (this script may be unavaible, please find another
 
 - When the script ask you to install, type `1` and then `enter` to install.
 - When the script ask you to choose protocol, type `4` and then `enter`.
-- When the script ask you to choose a port, type any number from 1-65535 you like, except 80 or 443.
+- When the script ask you to choose a port, type any number from 1-65535 you like, except 80 or 443. Actually, they are used specific reasons.
 - When the script ask you to input you damain, do it.
 - Make sure that your DNS has been updated as the last step said.
+
+### Reference
+- [How to setup your shadowsock server?](https://github.com/easonhuang123/blog/issues/1)
