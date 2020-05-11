@@ -41,7 +41,11 @@ After registering the domain, we need to connect it with our VPS, i.e., the CDN 
 
 ![](setup-v2ray-img-1.PNG)
 
-**Note:** You should gray the status button. It may take a long time, and you need to continue the next step after days.
+**Note:** You should gray the status button. It may take a long time, and you need to continue the next step after days. Please ensure that DNS have been updated in your network by checking the response of following command:
+```bash
+ping <your domain>
+```
+If the response IP is same to your VPS IP, congratuation!
 
 #### Install V2ray service in your VPS
 
@@ -51,3 +55,9 @@ We need to install v2ray service in our VPS by following command:
 bash <(curl –s –L https://git.io/v2ray.sh)
 ```
 and then install step by step (this script may be unavaible, please find another one in [Github](https://github.com) if it happens).
+
+- When the script ask you to install, type `1` and then `enter` to install.
+- When the script ask you to choose protocol, type `4` and then `enter`.
+- When the script ask you to choose a port, type any number from 1-65535 you like, except 80 or 443.
+- When the script ask you to input you damain, do it.
+- Make sure that your DNS has been updated as the last step said.
