@@ -4,7 +4,7 @@ title: How to setup your v2ray?
 subtitle: a powerful technique against IP banning
 ---
 
-It is really an useful skill for people who live in China to setup a VPN. Considering the frequently ban of VPS on some protocols like Shadowsocks, I use the V2Ray. It has at least three advantages:
+It is really an useful skill for people who live in China to setup a VPN(Virtual Private Network). Considering the frequently ban of VPS(Virtual Private Server) on some protocols like Shadowsocks, I use the V2Ray. It has at least three advantages:
 - **Security**: v2ray is a much more secure protocol than others.
 - **Convenience**: there are many convenient scripts to configure v2ray
 - **Effectiveness**: it cannot be banned when you use both v2ray and cdn. Otherwise, most other protocols can be banned and you need to find another one. It just wastes your money.
@@ -41,7 +41,13 @@ After registering the domain, we need to connect it with our VPS, i.e., the CDN 
 
 ![](setup-v2ray-img-1.PNG)
 
-**Note:** You should gray the status button. It may take a long time, and you need to continue the next step after days. Please ensure that DNS have been updated in your network by checking the response of following command:
+**Note:** You should gray the status button. 
+
+In the `freenom dashboard -> management tools -> use custom nameservers (enter below)`, you need to enter you cloudflare DNS server like `<name>.NS.CLOUDFLARE.COM` (you can find servers in you cloudflare.com).
+
+In the `cloudflare dashboard -> SSL/TLS` panel, choose the **Full** encryption.
+
+Please ensure that DNS have been updated in your network by checking the response of following command:
 ```bash
 ping <your domain>
 ```
@@ -63,4 +69,4 @@ and then install step by step (this script may be unavaible, please find another
 - Make sure that your DNS has been updated as the last step said.
 
 ### Reference
-- [How to setup your shadowsocks server?](https://github.com/easonhuang123/blog/issues/1). When you configure your domain in [freenom.com](https://freenom.com), you may get into some troubles because that the register script needs recaptcha (it may hide in the website appreance, you can see network errors in Google Chrome developer panel by press `F12`). Since you do NOT EVEN have access to Google, the continuing becomes impossible. Therefore, I strongly recommend you to setup you shadowsocks server in you VPS first, and then get a free domain to setup you v2ray.
+- [How to setup your shadowsocks server?](https://github.com/easonhuang123/blog/issues/1) When you configure your domain in [freenom.com](https://freenom.com), you may get into some troubles because that the register script needs recaptcha (it may hide in the website appreance, you can see network errors in Google Chrome developer panel by press `F12`). Since you do NOT EVEN have access to Google, the continuing becomes impossible. Therefore, I strongly recommend you to setup you shadowsocks server in your VPS first, and then get a free domain to setup you v2ray.
