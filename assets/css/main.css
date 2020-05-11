@@ -871,8 +871,8 @@ pre {
 .box-poem{
   text-align: center;
   background-color: #BC9F77;
-  border-left-color: #7D6C46;
-  border-right-color: #7D6C46;
+  border-left-color: rgb(211, 203, 185);
+  border-right-color: rgb(211, 203, 185);
 }
 
 .box-warning {
