@@ -73,7 +73,7 @@ and then install step by step (this script may be unavaible, please find another
 
 Download v2rayN for windows platform [here](https://github.com/2dust/v2rayN/releases). Other versions is also available.
 
-Lauch v2rayN and choose `Scan QR code in the screen`, then the your v2ray server will be added automatically. 
+In your VPS server, input `v2ray qr` to get a link of generate your v2ray QR code and open it in your browser. Make sure the image of QR code is visible, then Launch v2rayN and choose `Scan QR code in the screen`. Your v2ray server will be added automatically. 
 
 **Enjoy it!**
 
