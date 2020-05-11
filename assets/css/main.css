@@ -870,9 +870,9 @@ pre {
 
 .box-poem{
   text-align: center;
-  background-color: #BC9F77;
-  border-left-color: rgb(211, 203, 185);
-  border-right-color: rgb(211, 203, 185);
+  background-color: rgb(211, 203, 185);
+  border-left-color: #BC9F77;
+  border-right-color: #BC9F77;
 }
 
 .box-warning {
