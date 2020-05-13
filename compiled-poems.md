@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 文集
-subtitle: 歷年所作拙作合集
+subtitle: 歷年拙作合集
 cover-img: /assets/img/path.jpg
 ---
 ## 序：
