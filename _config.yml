@@ -15,12 +15,14 @@ navbar-links:
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
-  Verses: "compiled-poems"
-  Tech:
+  文学:
+    - 诗词汇集: "compiled-poems"
+    - 仙剑: "pal"
+  工具:
     - Tips: "tech"
     - PDF.JS: "/tech/pdf.js/src/index.html"
   # Author's home: "https://deanattali.com"
-  About Me: "aboutme"
+  关于: "aboutme"
 
 # --- Logo --- #
 
