@@ -4,16 +4,16 @@ title: About me
 subtitle: Hey guys, I will show you something beautiful!
 ---
 
-My name is Shiketsu(しけつ), and you can also call me Zi-Heng.
+My name is 仕杰(Shijie or Shiketsu).
 
-- My favorate is the classical text 
+- loving to read classical text
 - as well as the anything `pour L'honneur de l'esprit humain`.
 
 What else do you need?
 
 ### my history
 
-To be honest, I prefer to write poems, by which I can release my presure, feelings and tears. In a short, I recommend you to read the following one I just created recent days.
+To be honest, I prefer to write poems, by which I can release my presure, with happiness and tears. Here is an example created in spring of 2020 when COVID-19 attacked Wuhan city.
 
 [庚子大疫](https://www.52shici.com/works.php?mem_id=118459&works_id=2172845) 
 

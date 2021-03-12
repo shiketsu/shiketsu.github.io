@@ -16,7 +16,7 @@ navbar-links:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
   文学:
-    - 诗词汇集: "compiled-poems"
+    - 诗词: "compiled-poems"
     - 仙剑: "pal"
   工具:
     - Tips: "tech"
