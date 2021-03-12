@@ -4,10 +4,10 @@ title: How to setup your v2ray?
 subtitle: a powerful technique against IP banning
 ---
 
-It is really an useful skill for people who live in China to setup a VPN(Virtual Private Network). Considering the frequently ban of VPS(Virtual Private Server) on some protocols like Shadowsocks, I use the V2Ray. It has at least three advantages:
+It is really an useful skill for people who live in China to setup a VPN(Virtual Private Network). Considering the frequently banning of VPS(Virtual Private Server) on some protocols like Shadowsocks, I prefer to use the V2Ray for at least following three advantages:
 - **Security**: v2ray is a much more secure protocol than others.
 - **Convenience**: there are many convenient scripts to configure v2ray
-- **Effectiveness**: it cannot be banned when you use both v2ray and cdn. Otherwise, most other protocols can be banned and you need to find another one. It just wastes your money.
+- **Effectiveness**: it cannot be banned when you use both v2ray and cdn. Otherwise, most other protocols could be banned according IP instead of the domain, and you need to find another one. It's just wasting your money.
 
 Welcome to the v2ray world! You can get a basic understanding from the following image.
 
@@ -23,11 +23,11 @@ I choose the [![](https://bwh88.net/templates/organicbandwagon/images/logo.png)]
 
 | :------ |:--- | :--- |
 | Vultr | [https://www.vultr.com/](https://www.vultr.com/)| esay to beginners |
-| Linode | [https://www.linode.com/](https://www.linode.com/)| |
+| Linode | [https://www.linode.com/](https://www.linode.com/)| I know less about it |
 
 **Remember to use promotion code in BandwagonHOST!** It usually has a 6% discounting!
 
-### 2. Powerful techniques (all are free!)
+### 2. More Powerful techniques (for free!)
 Against the banning of servers' IP in China, we choose another powerful technique to build our VPN server, rather the directly connecting by Shadowsocks protocol.
 
 #### Register your free domain
@@ -35,7 +35,7 @@ I strongly recommend you to register a free domain in [![](https://my.freenom.co
 
 **Note:** You should create an account [here](http://www.freenom.com/en/developers.html).
 
-#### Setup CDN for your domain
+#### Setup CDN for the domain
 
 After registering the domain, we need to connect it with our VPS, i.e., the CDN service. Luckily, we can use the free service provided by [cloudflare.com](https://dash.cloudflare.com/). In its DNS dashboard, you shoud setup like following:
 
@@ -69,7 +69,7 @@ and then install step by step (this script may be unavaible, please find another
 - Make sure that your DNS has been updated as the last step said.
 - Please just press `enter` to comfirm all of the remaing configuration steps.
 
-### Finished your configuration
+### Finish your configuration
 
 Download v2rayN for windows platform [here](https://github.com/2dust/v2rayN/releases). Other versions is also available.
 

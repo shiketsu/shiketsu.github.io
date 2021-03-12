@@ -44,9 +44,9 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "shiketsu.kyo@gmail.com"
-  facebook: 2chhyu
+  facebook: shiketsu
   github: shiketsu
-  twitter: 2chhyu
+  twitter: shiketsu
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
